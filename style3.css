@@ -37,9 +37,9 @@ body {
 }
 
 h1{font-family:raleway;
-font-size: 14pt;
+font-size: 24pt;
 color:#595959;
-padding-top:20px;
+padding-top:50px;
 padding-bottom:50px;}
 
 @media screen and (max-width:760px) {
@@ -143,13 +143,13 @@ cursor: pointer;
 }
 
 .p1,.p4{
-	font-size: 19pt;
+	font-size: 18pt;
 	font-family:roboto;
 	font-weight: bold;
 }
 
 .p2,.p3,.p5{
-	font-size:16pt;
+	font-size:15pt;
 }
 
 
